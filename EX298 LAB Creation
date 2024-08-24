@@ -10,6 +10,7 @@ EX298 LAB Creation
   c. Install -> Python3-pip
   d. Install -> Container-tools
   e. Install -> ansible-navigator
+  f. execute -> ansible-navigator
 3.
 
 
