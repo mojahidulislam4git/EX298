@@ -4,13 +4,16 @@ EX298 LAB Creation
   b. Node1
   c. Node2
   d. Node3
-2. Controller Node Configuration
+2. Controller Node Configuration on RHEL 
   a. Configure Yum with the ISO as repository
   b. Install -> ansible-core
   c. Install -> Python3-pip
   d. Install -> Container-tools
   e. Install -> ansible-navigator
   f. execute -> ansible-navigator
+3. Controller Node Configuration on CentOS 9
+  a. Configure Yum with the ISO as repository (EPEL)
+  b. Install -> ansible-core
 3.
 
 
