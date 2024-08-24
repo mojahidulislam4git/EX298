@@ -1,0 +1,12 @@
+EX298 LAB Creation
+1. Create few Machine  for the lab Setup
+  a. Controller
+  b. Node1
+  c. Node2
+  d. Node3
+2. Controller Node Configuration
+  a. Configure Yum with the ISO as repository
+  b. Install -> ansible-core
+  c. Install -> Python3-pip
+
+
