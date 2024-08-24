@@ -8,5 +8,8 @@ EX298 LAB Creation
   a. Configure Yum with the ISO as repository
   b. Install -> ansible-core
   c. Install -> Python3-pip
+  d. Install -> Container-tools
+  e. Install -> ansible-navigator
+3.
 
 
