@@ -14,6 +14,7 @@ EX298 LAB Creation
 3. Controller Node Configuration on CentOS 9
   a. Configure Yum with the ISO as repository (EPEL)
   b. Install -> ansible-core
+  c. Execute -> ansible --version
 3.
 
 
